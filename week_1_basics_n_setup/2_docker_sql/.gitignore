@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 ny_taxi_postgres_data/
 *.csv
+.directory
+yellow_tripdata_2021-01.csv
+taxi+_zone_lookup.csv
+output.csv
