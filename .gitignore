@@ -8,8 +8,16 @@
 **logs/
 **.env
 **__pycache__/
+<<<<<<< HEAD
 venv
 venv/
 venv/*
 .directory
 ny_taxi_postgres_data/
+=======
+.history
+**/ny_taxi_postgres_data/*
+serving_dir
+*.csv
+.ipynb_checkpoints/
+>>>>>>> upstream/main
